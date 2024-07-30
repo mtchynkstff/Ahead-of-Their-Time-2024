@@ -11,3 +11,5 @@ This notebook was forked and based on Omri Goldstein's work on [Kaggle](https://
 * Plotted the data and fitted an exponential curve for **each medal**
 * Removed outlier results from early Summer Olympic Games to better fit model
 * **Predicted** the results for the 2024 men's and women's 100-meter and 200-meter dash
+
+For a more detailed analysis of this project, you can read my blog post on [Medium]([https://medium.com/@randomforestforthetrees](https://medium.com/@randomforestforthetrees/ahead-of-their-time-using-regression-analysis-to-examine-and-predict-olympic-track-field-24685853b48e)).
